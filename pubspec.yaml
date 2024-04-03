@@ -1,7 +1,7 @@
 name: toss_request_permission_bottom_sheet
 description: "toss style request permission bottom sheet for june"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/juneview-songdo/toss_request_permission_bottom_sheet
 
 version: 1.0.0+1
 
